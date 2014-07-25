@@ -3,7 +3,7 @@
 ####subjectID       2
 #####Subject ID
 
-*1-30 unique identifier
+* 1-30 unique identifier
 
 ####Activity        16
 #####Activity observed
