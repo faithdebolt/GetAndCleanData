@@ -1,3 +1,18 @@
+#####################################################################################
+##                                                                                 ##
+## Script to create tidy data set for Getting and Cleaning Data Course Project     ##
+## by F. DeBolt, 25 July 2014                                                      ##
+##                                                                                 ##
+#####################################################################################
+
+## Search for installation of necessary packages
+pkgs <- c("plyr","data.table","reshape2")
+for (i in 1:length(pkgs)){
+  trap<-try(find.package(pkgs[i]),T)
+  if(length(grep("Error",trap))>0){
+    install.packages(pkgs[i])
+  }
+}
 library(plyr)
 library(data.table)
 library(reshape2)
