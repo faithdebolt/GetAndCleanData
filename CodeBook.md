@@ -101,4 +101,4 @@
 ####AvgMeasurement  21
 #####Average of measurements by subject, activity, and feature
 
-*-0.995679798333333 - 0.962581161666667
+* -0.995679798333333 - 0.962581161666667
