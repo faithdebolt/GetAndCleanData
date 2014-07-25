@@ -15,8 +15,8 @@
 * STANDING
 * LAYING
 
-##Feature         29
-###Features captured by the smart phone's accelerometer and gyroscope
+####Feature         29
+#####Features captured by the smart phone's accelerometer and gyroscope
 
 * tBodyAcc_mean_X
 * tBodyAcc_mean_Y
@@ -98,7 +98,7 @@
 * fBodyBodyGyroJerkMag_std
 * fBodyBodyGyroJerkMag_meanFreq
 
-##AvgMeasurement  21
-###Average of measurements by subject, activity, and feature
+####AvgMeasurement  21
+#####Average of measurements by subject, activity, and feature
 
 *-0.995679798333333 - 0.962581161666667
